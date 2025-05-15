@@ -74,9 +74,9 @@ function App() {
           <div>
             <div className="flex items-center gap-2 mb-2">
               <ListTodo className="text-blue-500" size={28} />
-              <h1 className="text-2xl font-bold text-gray-800 dark:text-white">Todo App</h1>
+              <h1 className="text-2xl font-bold text-gray-800 dark:text-white">T.U.D.U.</h1>
             </div>
-            <p className="text-gray-600 dark:text-gray-400">Organizza le tue attività in modo semplice</p>
+            <p className="text-gray-600 dark:text-gray-400">The Useful Daily Utility</p>
           </div>
           <ThemeToggle />
         </header>
